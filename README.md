@@ -1,0 +1,2 @@
+# GalaxyGenerator
+PHP Galaxy generator
