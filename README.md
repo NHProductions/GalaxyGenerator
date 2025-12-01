@@ -12,5 +12,10 @@ For the actual stars, they're split into 3 regions; the bulge (extremely near th
 ## Example galaxies:
 
 ![](/galaxy1.png)
+![](/galaxy2.png)
+![](/galaxy3.png)
+![](/galaxy4.png)
+
+
 
 
